@@ -5,3 +5,4 @@ I classed it as black so it would be easier to code so dont call me racist.
 wasnt too sure where to put my js so i  just put it in my html folder since it aint much. 
 i think i uploaded everything correctly but then again I could be wrong.
 scroll so navbar looks cool
+(was kinda inspired by this years nav)
